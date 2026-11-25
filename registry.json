@@ -7,7 +7,7 @@
       "description": "Normalizes DeepSeek thinking-mode requests: fills missing/empty reasoning_content on assistant messages and rewrites developer roles to system so strict upstreams (e.g. opencode zen/go) no longer reject them with 400.",
       "author": "ahoo",
       "version": "0.1.2",
-      "repository": "https://github.com/ahoo/cpa-plugin-deepseek-reasoning-fixer",
+      "repository": "https://gh-proxy.com/https://github.com/ahoo/cpa-plugin-deepseek-reasoning-fixer",
       "homepage": "https://github.com/ahoo/cpa-plugin-deepseek-reasoning-fixer",
       "license": "MIT",
       "tags": [
